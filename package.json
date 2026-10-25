@@ -1,0 +1,1 @@
+{"name":"sentinelai","version":"0.3.0","main":"src/server.js","scripts":{"dev":"node --watch src/server.js","start":"node src/server.js","test":"node --test","db:init":"node scripts/init-db.js"},"dependencies":{"cors":"^2.8.5","dotenv":"^16.4.7","express":"^4.21.2","pg":"^8.13.1"}}

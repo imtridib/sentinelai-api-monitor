@@ -1,0 +1,4 @@
+[
+ {"endpoint":"/api/health","statusCode":200,"responseTimeMs":120,"recordCount":12,"dataValid":true},
+ {"endpoint":"/api/orders","statusCode":500,"responseTimeMs":6400,"recordCount":0,"dataValid":false,"validationMessage":"Expected array was empty"}
+]
